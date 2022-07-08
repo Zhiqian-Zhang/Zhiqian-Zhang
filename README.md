@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zhiqian-Zhang
-- 👀 I’m interested in CS & HCI
-- 🌱 I’m currently a UX Researcher and UX engineer
-- 💞️ I’m looking to collaborate on front-end engineering
+- 👀 I’m a MS Computer Science student @ Northeastern University Silicon Valley Campus
+- 🌱 I’m seeking for software engineer intern
 - 📫 Welcome to reach me at zhiqianz29@gmail.com
 
 <!---
